@@ -1,0 +1,19 @@
+{
+  "name": "Radio Eksen Alexa Skill",
+  "version": "0.0.1",
+  "description": "An Alexa skill for streaming Radio Eksen",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio streaming",
+    "radio eksen",
+    "alternative rock"
+  ],
+  "author": "B. Arman Aksoy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk-core": "^2.3.0",
+    "ask-sdk-model": "^1.11.1"
+  }
+}
